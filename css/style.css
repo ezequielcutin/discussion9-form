@@ -73,4 +73,10 @@
   input[type="submit"]:hover {
     background-color: var(--button-hover-color);
   }
-  
+ 
+  .radio-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
